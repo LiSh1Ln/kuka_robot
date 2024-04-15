@@ -5,5 +5,6 @@
 </video>
 !(https://github.com/LiSh1Ln/kuka_robot/blob/main/ChinaToyShowVideo.mp4)
 !(https://github.com/LiSh1Ln/kuka_robot/ChinaToyShowVideo.mp4)
+![image](Show.gif)
 ##机械手的配置信息
 ##其中使用的可视化编程软件VM，链接。
