@@ -1,0 +1,100 @@
+&ACCESS RVP
+&REL 11
+&PARAM EDITMASK = *
+&PARAM TEMPLATE = C:\KRC\Roboter\Template\vorgabe
+&PARAM DISKPATH = KRC:\R1\Program\Li_46
+DEF TheLastCode( )
+;FOLD Declaration
+DECL  EKI_STATUS RET
+
+;ENDFOLD (Declaration)
+DECL INT i, j, k, iu, num,ball_get_i, i_num,j_num,k_num,BallRest
+
+DECL REAL DAA1,DAA2,DA41,ERROR_X,ERROR_Y
+DECL REAL ACT_X,ACT_Y,q1,x_start,y_start_left,y_start_right,x_jianju,wait_sec
+DECL POS STU
+
+DECL REAL Location_XStart, Location_YStart, Location_ZStart,class_wood,write_over,start_wood,theta,i1,j1,k1
+DECL POS MY1
+DECL POS STU1
+DECL REAL p, p1, p2
+
+DECL REAL X_TOP,X_DOWN,Y_TOP,Y_DOWN
+;FOLD PTP LI Vel=100 % PDAT5 Tool[6] Base[0] ;%{PE}
+;FOLD Parameters ;%{h}
+;Params IlfProvider=kukaroboter.basistech.inlineforms.movement.old; Kuka.IsGlobalPoint=False; Kuka.PointName=LI; Kuka.BlendingEnabled=False; Kuka.MoveDataPtpName=PDAT5; Kuka.VelocityPtp=100; Kuka.CurrentCDSetIndex=0; Kuka.MovementParameterFieldEnabled=True; IlfCommand=PTP
+;ENDFOLD
+$BWDSTART = FALSE
+PDAT_ACT = PPDAT5
+FDAT_ACT = FLI
+BAS(#PTP_PARAMS, 100.0)
+SET_CD_PARAMS (0)
+PTP XLI
+;ENDFOLD
+BAS (#INITMOV,0 )
+RET=EKI_Init("XmlTransmit")
+RET=EKI_Open("XmlTransmit")
+RET=EKI_SetReal("XmlTransmit","Robot/Data/mypos/@f",0)
+RET=EKI_SetReal("XmlTransmit","Robot/Data/mypos/@p",0)
+RET=EKI_SetReal("XmlTransmit","Robot/Data/mypos/@e",3500)
+RET=EKI_SetReal("XmlTransmit","Robot/Data/mypos/@q",0)
+RET=EKI_SetReal("XmlTransmit","Robot/Data/mypos/@n",0)
+ 
+;FOLD PTP LI Vel=100 % PDAT6 Tool[6] Base[0] ;%{PE}
+;FOLD Parameters ;%{h}
+;Params IlfProvider=kukaroboter.basistech.inlineforms.movement.old; Kuka.IsGlobalPoint=False; Kuka.PointName=LI; Kuka.BlendingEnabled=False; Kuka.MoveDataPtpName=PDAT6; Kuka.VelocityPtp=100; Kuka.CurrentCDSetIndex=0; Kuka.MovementParameterFieldEnabled=True; IlfCommand=PTP
+;ENDFOLD
+$BWDSTART = FALSE
+PDAT_ACT = PPDAT6
+FDAT_ACT = FLI
+BAS(#PTP_PARAMS, 100.0)
+SET_CD_PARAMS (0)
+PTP XLI
+;ENDFOLD
+;We set the START of Location SSthat the block take
+$OUT[8] = FALSE
+$OUT[1] = TRUE
+$OUT[2] = TRUE
+$OUT[12] = FALSE
+$OUT[3] = FALSE
+$OUT[4] = FALSE
+$OUT[5] = FALSE
+$OUT[6] = FALSE
+$OUT[9] = FALSE
+$OUT[10] = FALSE
+$OUT[11] = FALSE
+$OUT[12] = FALSE
+Location_XStart = 493 + 48
+Location_YStart = 77 - 48
+Location_ZStart = 181.75 - 0.4
+;Set Table Edge Value
+STU.X = 666.4
+STU.Y = -258.72
+STU.Z = 150
+STU.A = 0
+STU.B = 180
+STU.C = 0
+
+PTP STU
+;Picture
+
+RET=EKI_SetReal("XmlTransmit","Robot/Data/mypos/@f",0)
+
+FOR i = 1 TO 360 STEP 5
+   RET=EKI_SetReal("XmlTransmit","Robot/Data/mypos/@f",1)
+   RET=EKI_SetReal("XmlTransmit","Robot/Data/mypos/@f",0)
+   STU.A = i
+   PTP STU
+   WAIT SEC 1
+ENDFOR
+
+; Make Block
+
+;  T H I S IS MAKE B L O C K - - - - -  - - - - - 
+
+
+         
+RET=EKI_Close("XmlTransmit")
+RET=EKI_Clear("XmlTransmit")
+
+END
