@@ -1,0 +1,42 @@
+2023-09-15 09:54:42.591 INFO  [22036] [CTimerProxy::Regitser@52] Register timer event,Handle[0],pUserData[058FC830]
+
+2023-09-15 09:54:42.591 INFO  [22036] [CCommFactory::SetLogPath@83] set log---call register timer,timer id[0],this[058FC830],pLogPath[C:\Users\lslpc\Desktop\WindowsFormsApp1\bin\Release\log\SDK]
+
+2023-09-15 09:54:42.591 INFO  [22036] [CCommFactory::UpdateLogPath@231] current Path[C]
+
+2023-09-15 11:09:23.359 INFO  [23104] [CTimerProxy::Regitser@52] Register timer event,Handle[0],pUserData[05168458]
+
+2023-09-15 11:09:23.359 INFO  [23104] [CCommFactory::SetLogPath@83] set log---call register timer,timer id[0],this[05168458],pLogPath[C:\Users\lslpc\Desktop\WindowsFormsApp1\bin\Release\log\SDK]
+
+2023-09-15 11:09:23.359 INFO  [23104] [CCommFactory::UpdateLogPath@231] current Path[C]
+
+2023-09-15 11:09:23.480 INFO  [23104] [CTimerProxy::Unregister@61] Unegister timer event,Handle[0]
+
+2023-09-15 11:09:23.480 INFO  [23104] [CTimerProxy::Unregister@66] erase timer event,Handle[0] succ!!!
+
+2023-09-15 11:09:23.480 INFO  [23104] [CTimerProxy::Unregister@74] Unegister timer event,Handle[0]---end
+
+2023-09-15 11:09:40.580 INFO  [23220] [CTimerProxy::Regitser@52] Register timer event,Handle[0],pUserData[0105B8A8]
+
+2023-09-15 11:09:40.580 INFO  [23220] [CCommFactory::SetLogPath@83] set log---call register timer,timer id[0],this[0105B8A8],pLogPath[C:\Users\lslpc\Desktop\WindowsFormsApp1\bin\Release\log\SDK]
+
+2023-09-15 11:09:40.580 INFO  [23220] [CCommFactory::UpdateLogPath@231] current Path[C]
+
+2023-09-15 11:09:40.689 INFO  [23220] [CTimerProxy::Unregister@61] Unegister timer event,Handle[0]
+
+2023-09-15 11:09:40.689 INFO  [23220] [CTimerProxy::Unregister@66] erase timer event,Handle[0] succ!!!
+
+2023-09-15 11:09:40.689 INFO  [23220] [CTimerProxy::Unregister@74] Unegister timer event,Handle[0]---end
+
+2023-09-15 11:09:54.180 INFO  [24064] [CTimerProxy::Regitser@52] Register timer event,Handle[0],pUserData[0518FDC8]
+
+2023-09-15 11:09:54.180 INFO  [24064] [CCommFactory::SetLogPath@83] set log---call register timer,timer id[0],this[0518FDC8],pLogPath[C:\Users\lslpc\Desktop\WindowsFormsApp1\bin\Release\log\SDK]
+
+2023-09-15 11:09:54.180 INFO  [24064] [CCommFactory::UpdateLogPath@231] current Path[C]
+
+2023-09-15 11:09:54.274 INFO  [24064] [CTimerProxy::Unregister@61] Unegister timer event,Handle[0]
+
+2023-09-15 11:09:54.274 INFO  [24064] [CTimerProxy::Unregister@66] erase timer event,Handle[0] succ!!!
+
+2023-09-15 11:09:54.274 INFO  [24064] [CTimerProxy::Unregister@74] Unegister timer event,Handle[0]---end
+

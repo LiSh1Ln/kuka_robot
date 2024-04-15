@@ -1,0 +1,521 @@
+2023-08-29 14:28:41.846 INFO  [17436] [CServerManager::PrintLog@36181] ======================================== V4.0.0 Start Print Log ========================================
+
+2023-08-29 14:28:41.855 INFO  [17436] [CClientManager::InitAuthorization@5901] begin.
+
+2023-08-29 14:28:41.952 INFO  [17436] [CClientManager::CheckLicense@6626] start
+
+2023-08-29 14:28:41.952 INFO  [17436] [CClientManager::CheckLicense@6678] end
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::InitAuthorization@5957] SDK: InitAuthorization, authorization check successful.
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::InitAuthorization@5961] end.
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::Init@5403] begin.
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::DeInitPair@5690] start
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::DeInitPair@5704] end
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::DeInitPair@5690] start
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::DeInitPair@5704] end
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::Init@5421] end.nRet[0]
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::PF_DetectAndStartServer@12445] begin.
+
+2023-08-29 14:28:42.048 INFO  [17436] [CServerManager::DetectService@33907] SDK: DetectService by OpenSCManager start
+
+2023-08-29 14:28:42.048 ERROR [17436] [CServerManager::DetectService@33919] SDK: DetectService OpenSCManager failed. Last error:[5]
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::ServiceRun@4733] begin.
+
+2023-08-29 14:28:42.048 ERROR [17436] [CClientManager::ServiceRun@4801] SDK: ServiceRun OpenSCManager fail. Last error: [5]
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::ServiceRun@4902] end.
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::PF_DeInitPrintLog@6917] SDK: Destroy Zmq context start.
+
+2023-08-29 14:28:42.048 INFO  [17436] [CClientManager::PF_DeInitPrintLog@6922] SDK: Destroy Zmq context end.
+
+2023-08-29 15:53:51.073 INFO  [12700] [CServerManager::PrintLog@36181] ======================================== V4.0.0 Start Print Log ========================================
+
+2023-08-29 15:53:51.082 INFO  [12700] [CClientManager::InitAuthorization@5901] begin.
+
+2023-08-29 15:53:51.177 INFO  [12700] [CClientManager::CheckLicense@6626] start
+
+2023-08-29 15:53:51.177 INFO  [12700] [CClientManager::CheckLicense@6678] end
+
+2023-08-29 15:53:51.272 INFO  [12700] [CClientManager::InitAuthorization@5957] SDK: InitAuthorization, authorization check successful.
+
+2023-08-29 15:53:51.272 INFO  [12700] [CClientManager::InitAuthorization@5961] end.
+
+2023-08-29 15:53:51.272 INFO  [12700] [CClientManager::Init@5403] begin.
+
+2023-08-29 15:53:51.272 INFO  [12700] [CClientManager::DeInitPair@5690] start
+
+2023-08-29 15:53:51.272 INFO  [12700] [CClientManager::DeInitPair@5704] end
+
+2023-08-29 15:53:51.272 INFO  [12700] [CClientManager::DeInitPair@5690] start
+
+2023-08-29 15:53:51.272 INFO  [12700] [CClientManager::DeInitPair@5704] end
+
+2023-08-29 15:53:51.272 INFO  [12700] [CClientManager::Init@5421] end.nRet[0]
+
+2023-08-29 15:53:51.272 INFO  [12700] [CClientManager::PF_DetectAndStartServer@12445] begin.
+
+2023-08-29 15:53:51.272 INFO  [12700] [CServerManager::DetectService@33907] SDK: DetectService by OpenSCManager start
+
+2023-08-29 15:53:51.273 ERROR [12700] [CServerManager::DetectService@33919] SDK: DetectService OpenSCManager failed. Last error:[5]
+
+2023-08-29 15:53:51.273 INFO  [12700] [CClientManager::ServiceRun@4733] begin.
+
+2023-08-29 15:53:51.273 ERROR [12700] [CClientManager::ServiceRun@4801] SDK: ServiceRun OpenSCManager fail. Last error: [5]
+
+2023-08-29 15:53:51.273 INFO  [12700] [CClientManager::ServiceRun@4902] end.
+
+2023-08-29 15:53:51.273 INFO  [12700] [CClientManager::PF_DeInitPrintLog@6917] SDK: Destroy Zmq context start.
+
+2023-08-29 15:53:51.273 INFO  [12700] [CClientManager::PF_DeInitPrintLog@6922] SDK: Destroy Zmq context end.
+
+2023-08-29 16:11:40.450 INFO  [5660] [CServerManager::PrintLog@36181] ======================================== V4.0.0 Start Print Log ========================================
+
+2023-08-29 16:11:40.458 INFO  [5660] [CClientManager::InitAuthorization@5901] begin.
+
+2023-08-29 16:11:40.458 INFO  [5660] [CClientManager::CheckLicense@6626] start
+
+2023-08-29 16:11:40.458 INFO  [5660] [CClientManager::CheckLicense@6678] end
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::InitAuthorization@5957] SDK: InitAuthorization, authorization check successful.
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::InitAuthorization@5961] end.
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::Init@5403] begin.
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::DeInitPair@5690] start
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::DeInitPair@5704] end
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::DeInitPair@5690] start
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::DeInitPair@5704] end
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::Init@5421] end.nRet[0]
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::PF_DetectAndStartServer@12445] begin.
+
+2023-08-29 16:11:40.556 INFO  [5660] [CServerManager::DetectService@33907] SDK: DetectService by OpenSCManager start
+
+2023-08-29 16:11:40.556 ERROR [5660] [CServerManager::DetectService@33919] SDK: DetectService OpenSCManager failed. Last error:[5]
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::ServiceRun@4733] begin.
+
+2023-08-29 16:11:40.556 ERROR [5660] [CClientManager::ServiceRun@4801] SDK: ServiceRun OpenSCManager fail. Last error: [5]
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::ServiceRun@4902] end.
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::PF_DeInitPrintLog@6917] SDK: Destroy Zmq context start.
+
+2023-08-29 16:11:40.556 INFO  [5660] [CClientManager::PF_DeInitPrintLog@6922] SDK: Destroy Zmq context end.
+
+2023-08-29 16:11:44.996 INFO  [26740] [CServerManager::PrintLog@36181] ======================================== V4.0.0 Start Print Log ========================================
+
+2023-08-29 16:11:45.005 INFO  [26740] [CClientManager::InitAuthorization@5901] begin.
+
+2023-08-29 16:11:45.005 INFO  [26740] [CClientManager::CheckLicense@6626] start
+
+2023-08-29 16:11:45.005 INFO  [26740] [CClientManager::CheckLicense@6678] end
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::InitAuthorization@5957] SDK: InitAuthorization, authorization check successful.
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::InitAuthorization@5961] end.
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::Init@5403] begin.
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::DeInitPair@5690] start
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::DeInitPair@5704] end
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::DeInitPair@5690] start
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::DeInitPair@5704] end
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::Init@5421] end.nRet[0]
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::PF_DetectAndStartServer@12445] begin.
+
+2023-08-29 16:11:45.100 INFO  [26740] [CServerManager::DetectService@33907] SDK: DetectService by OpenSCManager start
+
+2023-08-29 16:11:45.100 INFO  [26740] [CServerManager::DetectService@33972] end
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::PF_DetectAndStartServer@12640] end.
+
+2023-08-29 16:11:45.100 INFO  [26740] [CClientManager::PF_CreateHandle@1447] begin. nHandleType:[0]
+
+2023-08-29 16:11:45.106 INFO  [26740] [CClientManager::PF_CreateHandle@1475] SDK: Third software start server by exe.
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::SM_Init@388] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInit@23606] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::StopModuResSub@24883] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::StopModuResSub@24893] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::StopSub@24759] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::StopSub@24769] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::StopHeartPair@25765] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::StopHeartPair@25773] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitReadSendBuffer@23713] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitReadSendBuffer@23735] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitHeartPair@24411] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::StopHeartPair@25765] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::StopHeartPair@25773] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitHeartPair@24426] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitSub@23890] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitSub@23904] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitProxySub@23993] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitProxySub@24008] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitReq@24268] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::UnRegisterModule@24692] start
+
+2023-08-29 16:11:45.106 WARN  [26740] [CServerManager::UnRegisterModule@24695] SDK: m_hCommunicationReq is NULL.
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::NotifyServerDestroy4Export@12372] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::NotifyServerDestroy4Export@12388] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitReq@24293] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInit@23644] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::InitReadSendBuffer@23655] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitReadSendBuffer@23713] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitReadSendBuffer@23735] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::InitReadSendBuffer@23702] end
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::SM_Init@423] SDK: InitReadSendBuffer success.pstPlatformBasicInfo->nRepIp[0x7f000001],nport[5556]
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::SM_Init@442] SDK: GetAdapterInfo success. Info:[127.0.0.1]
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::InitSub@23809] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitSub@23890] start
+
+2023-08-29 16:11:45.106 INFO  [26740] [CServerManager::DeInitSub@23904] end
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitSub@23879] end
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::SM_Init@480] SDK: InitSub success.
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitProxySub@23914] start
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::DeInitProxySub@23993] start
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::DeInitProxySub@24008] end
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitProxySub@23982] end
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::SM_Init@489] SDK: InitProxySub success.
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitHeartPair@24298] start
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::DeInitHeartPair@24411] start
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::StopHeartPair@25765] start
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::StopHeartPair@25773] end
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::DeInitHeartPair@24426] end
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitHeartPair@24333] SDK: request heartbeat addr[tcp://127.0.0.1:49201]
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitHeartPair@24404] end
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::SM_Init@497] SDK: InitHeartPair success.
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitReq@24018] start
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::DeInitReq@24268] start
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::UnRegisterModule@24692] start
+
+2023-08-29 16:11:45.117 WARN  [26740] [CServerManager::UnRegisterModule@24695] SDK: m_hCommunicationReq is NULL.
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::NotifyServerDestroy4Export@12372] start
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::NotifyServerDestroy4Export@12388] end
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::DeInitReq@24293] end
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitReq@24075] Bind address:[tcp://127.0.0.1:49202]
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitReq@24079] Bind address:[tcp://127.0.0.1:49202], nRet:[0]
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitReq@24083] SetSocketOpt, nRet:[0]
+
+2023-08-29 16:11:45.117 INFO  [26740] [CServerManager::InitReq@24087] SetSocketOpt, nRet:[0]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CServerManager::InitReq@24163] SDK:Connect addr:[tcp://127.0.0.1:5556], nRet:[0]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CServerManager::InitReq@24173] SDK: Connect to vmserver rep[tcp://127.0.0.1:5556]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CServerManager::GetProxyRegisterState@23207] start.
+
+2023-08-29 16:11:45.118 INFO  [26740] [CServerManager::GetProxyRegisterState@23279] end.
+
+2023-08-29 16:11:45.118 INFO  [26740] [CServerManager::RegisterModule@24436] start
+
+2023-08-29 16:11:45.158 INFO  [26740] [CServerManager::GetProcessDirectoryById@34396] SDK: Process path:[H:\hikon\VisionMaster4.2.0\Applications\Server]
+
+2023-08-29 16:11:45.158 INFO  [26740] [CServerManager::RegisterModule@24505] SDK: Register RepAddress:[]; Proxy pub address:[tcp://0.0.0.0:65253]
+
+2023-08-29 16:11:45.158 INFO  [26740] [CServerManager::RegisterModule@24507] SDK: Register info. ClientType:[1]; GUID:[127.0.0.1:271E644FBB774C4AA7FC43939BFB0138]
+
+2023-08-29 16:11:45.226 INFO  [26740] [CServerManager::RegisterModule@24681] end
+
+2023-08-29 16:11:45.226 INFO  [26740] [CServerManager::InitReq@24257] end
+
+2023-08-29 16:11:45.226 INFO  [26740] [CServerManager::SM_Init@506] SDK: InitReq success.
+
+2023-08-29 16:11:45.226 INFO  [26740] [CServerManager::SM_Init@515] SDK: StartSub success.
+
+2023-08-29 16:11:45.226 INFO  [26740] [CServerManager::StartModuResSub@24858] start
+
+2023-08-29 16:11:45.226 INFO  [26740] [CServerManager::StartModuResSub@24871] end
+
+2023-08-29 16:11:45.226 INFO  [26740] [CServerManager::SM_Init@525] SDK: StartModuResSub success.
+
+2023-08-29 16:11:45.226 INFO  [26740] [CServerManager::ProxyP2PConnect@36771] Begin
+
+2023-08-29 16:11:45.226 INFO  [26740] [CServerManager::GetProxyP2PAddr@36715] start
+
+2023-08-29 16:11:45.226 INFO  [11776] [CServerManager::HeartPairThreadProcess@25790] start
+
+2023-08-29 16:11:45.226 INFO  [5648] [CServerManager::SubThreadProcess@24797] start
+
+2023-08-29 16:11:45.226 INFO  [9376] [CServerManager::ModuResSubThreadProcess@24921] start
+
+2023-08-29 16:11:45.227 INFO  [26740] [CServerManager::GetProxyP2PAddr@36761] end
+
+2023-08-29 16:11:45.227 INFO  [26740] [ProxyP2PComm::InitP2PComm@60] start
+
+2023-08-29 16:11:45.242 INFO  [26740] [ProxyP2PComm::InitP2PComm@97] end
+
+2023-08-29 16:11:45.242 INFO  [26740] [CServerManager::ProxyP2PConnect@36786] End
+
+2023-08-29 16:11:45.242 INFO  [26740] [CServerManager::SM_Init@563] end
+
+2023-08-29 16:11:45.242 INFO  [26740] [CServerManager::SM_SetAllReportModuleResult@14848] start.
+
+2023-08-29 16:11:45.243 INFO  [26740] [CServerManager::SM_SetAllReportModuleResult@14872] end.
+
+2023-08-29 16:11:45.243 INFO  [26740] [CServerManager::SM_GetProcedureReentrant@21018] start.
+
+2023-08-29 16:11:45.243 INFO  [26740] [CServerManager::SM_GetProcedureReentrant@21053] SDK: SM_GetProcedureReentrant nRecvBufLen:[228]
+
+2023-08-29 16:11:45.243 INFO  [26740] [CServerManager::SM_GetProcedureReentrant@21101] end.
+
+2023-08-29 16:11:45.243 INFO  [26740] [CClientManager::PF_CreateHandle@1535] end.
+
+2023-08-29 16:11:45.795 INFO  [26740] [CServerManager::SM_RegisterOutputPlatformInfoCallBack@575] start
+
+2023-08-29 16:11:45.795 INFO  [26740] [CServerManager::SM_RegisterOutputPlatformInfoCallBack@601] end
+
+2023-11-06 14:38:41.761 INFO  [584] [CServerManager::PrintLog@36267] ======================================== 4.2.0 build Sep  6 2022 10:18:34 Start Print Log ========================================
+
+2023-11-06 14:38:41.770 INFO  [584] [CClientManager::InitAuthorization@5906] begin.
+
+2023-11-06 14:38:41.770 INFO  [584] [CClientManager::CheckLicense@6631] start
+
+2023-11-06 14:38:41.770 INFO  [584] [CClientManager::CheckLicense@6683] end
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::InitAuthorization@5962] SDK: InitAuthorization, authorization check successful.
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::InitAuthorization@5966] end.
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::Init@5408] begin.
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::DeInitPair@5695] start
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::DeInitPair@5709] end
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::DeInitPair@5695] start
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::DeInitPair@5709] end
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::Init@5426] end.nRet[0]
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::PF_DetectAndStartServer@12450] begin.
+
+2023-11-06 14:38:41.868 INFO  [584] [CServerManager::DetectService@33992] SDK: DetectService by OpenSCManager start
+
+2023-11-06 14:38:41.868 INFO  [584] [CServerManager::DetectService@34057] end
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::PF_DetectAndStartServer@12645] end.
+
+2023-11-06 14:38:41.868 INFO  [584] [CClientManager::PF_CreateHandle@1447] begin. nHandleType:[0]
+
+2023-11-06 14:38:41.870 INFO  [584] [CClientManager::PF_CreateHandle@1475] SDK: Third software start server by exe.
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::SM_Init@388] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInit@23691] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::StopModuResSub@24968] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::StopModuResSub@24978] end
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::StopSub@24844] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::StopSub@24854] end
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::StopHeartPair@25850] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::StopHeartPair@25858] end
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitReadSendBuffer@23798] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitReadSendBuffer@23820] end
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitHeartPair@24496] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::StopHeartPair@25850] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::StopHeartPair@25858] end
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitHeartPair@24511] end
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitSub@23975] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitSub@23989] end
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitProxySub@24078] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitProxySub@24093] end
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitReq@24353] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::UnRegisterModule@24777] start
+
+2023-11-06 14:38:41.870 WARN  [584] [CServerManager::UnRegisterModule@24780] SDK: m_hCommunicationReq is NULL.
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::NotifyServerDestroy4Export@12373] start
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::NotifyServerDestroy4Export@12389] end
+
+2023-11-06 14:38:41.870 INFO  [584] [CServerManager::DeInitReq@24378] end
+
+2023-11-06 14:38:41.871 INFO  [584] [CServerManager::DeInit@23729] end
+
+2023-11-06 14:38:41.871 INFO  [584] [CServerManager::InitReadSendBuffer@23740] start
+
+2023-11-06 14:38:41.871 INFO  [584] [CServerManager::DeInitReadSendBuffer@23798] start
+
+2023-11-06 14:38:41.871 INFO  [584] [CServerManager::DeInitReadSendBuffer@23820] end
+
+2023-11-06 14:38:41.871 INFO  [584] [CServerManager::InitReadSendBuffer@23787] end
+
+2023-11-06 14:38:41.872 INFO  [584] [CServerManager::SM_Init@423] SDK: InitReadSendBuffer success.pstPlatformBasicInfo->nRepIp[0x7f000001],nport[5556]
+
+2023-11-06 14:38:41.872 INFO  [584] [CServerManager::SM_Init@442] SDK: GetAdapterInfo success. Info:[127.0.0.1]
+
+2023-11-06 14:38:41.872 INFO  [584] [CServerManager::InitSub@23894] start
+
+2023-11-06 14:38:41.872 INFO  [584] [CServerManager::DeInitSub@23975] start
+
+2023-11-06 14:38:41.872 INFO  [584] [CServerManager::DeInitSub@23989] end
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitSub@23964] end
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::SM_Init@480] SDK: InitSub success.
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitProxySub@23999] start
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::DeInitProxySub@24078] start
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::DeInitProxySub@24093] end
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitProxySub@24067] end
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::SM_Init@489] SDK: InitProxySub success.
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitHeartPair@24383] start
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::DeInitHeartPair@24496] start
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::StopHeartPair@25850] start
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::StopHeartPair@25858] end
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::DeInitHeartPair@24511] end
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitHeartPair@24418] SDK: request heartbeat addr[tcp://127.0.0.1:49728]
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitHeartPair@24489] end
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::SM_Init@497] SDK: InitHeartPair success.
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitReq@24103] start
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::DeInitReq@24353] start
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::UnRegisterModule@24777] start
+
+2023-11-06 14:38:41.886 WARN  [584] [CServerManager::UnRegisterModule@24780] SDK: m_hCommunicationReq is NULL.
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::NotifyServerDestroy4Export@12373] start
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::NotifyServerDestroy4Export@12389] end
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::DeInitReq@24378] end
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitReq@24160] Bind address:[tcp://127.0.0.1:49729]
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitReq@24164] Bind address:[tcp://127.0.0.1:49729], nRet:[0]
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitReq@24168] SetSocketOpt, nRet:[0]
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitReq@24172] SetSocketOpt, nRet:[0]
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitReq@24248] SDK:Connect addr:[tcp://127.0.0.1:5556], nRet:[0]
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::InitReq@24258] SDK: Connect to vmserver rep[tcp://127.0.0.1:5556]
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::GetProxyRegisterState@23292] start.
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::GetProxyRegisterState@23364] end.
+
+2023-11-06 14:38:41.886 INFO  [584] [CServerManager::RegisterModule@24521] start
+
+2023-11-06 14:38:41.887 INFO  [584] [CServerManager::GetProcessDirectoryById@34481] SDK: Process path:[D:\Program Files\VisionMaster4.2.0\Applications\Server]
+
+2023-11-06 14:38:41.887 INFO  [584] [CServerManager::RegisterModule@24590] SDK: Register RepAddress:[]; Proxy pub address:[tcp://0.0.0.0:49675]
+
+2023-11-06 14:38:41.887 INFO  [584] [CServerManager::RegisterModule@24592] SDK: Register info. ClientType:[1]; GUID:[127.0.0.1:1A664E2EE3BC45CE8DC81F89AAC81746]
+
+2023-11-06 14:38:41.899 INFO  [584] [CServerManager::RegisterModule@24766] end
+
+2023-11-06 14:38:41.899 INFO  [584] [CServerManager::InitReq@24342] end
+
+2023-11-06 14:38:41.899 INFO  [584] [CServerManager::SM_Init@506] SDK: InitReq success.
+
+2023-11-06 14:38:41.89

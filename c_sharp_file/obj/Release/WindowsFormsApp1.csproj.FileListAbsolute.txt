@@ -1,0 +1,16 @@
+C:\Users\lslpc\Desktop\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\lslpc\Desktop\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.manifest
+C:\Users\lslpc\Desktop\WindowsFormsApp1\bin\Release\WindowsFormsApp1.application
+C:\Users\lslpc\Desktop\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\lslpc\Desktop\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.config
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.WayMove.resources
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.manifest
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.application
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\lslpc\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

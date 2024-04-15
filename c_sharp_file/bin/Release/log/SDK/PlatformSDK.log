@@ -1,0 +1,124 @@
+2023-09-15 09:54:42.575 INFO  [22036] [CServerManager::PrintLog@36267] ======================================== 4.2.0 build Sep  6 2022 10:43:41 Start Print Log ========================================
+
+2023-09-15 09:54:42.591 INFO  [22036] [CClientManager::InitAuthorization@5906] begin.
+
+2023-09-15 11:09:23.344 INFO  [23104] [CServerManager::PrintLog@36267] ======================================== 4.2.0 build Sep  6 2022 10:43:41 Start Print Log ========================================
+
+2023-09-15 11:09:23.359 INFO  [23104] [CClientManager::InitAuthorization@5906] begin.
+
+2023-09-15 11:09:23.359 INFO  [23104] [CClientManager::CheckLicense@6631] start
+
+2023-09-15 11:09:23.359 INFO  [23104] [CClientManager::CheckLicense@6683] end
+
+2023-09-15 11:09:23.477 INFO  [23104] [CClientManager::InitAuthorization@5962] SDK: InitAuthorization, authorization check successful.
+
+2023-09-15 11:09:23.477 INFO  [23104] [CClientManager::InitAuthorization@5966] end.
+
+2023-09-15 11:09:23.477 INFO  [23104] [CClientManager::Init@5408] begin.
+
+2023-09-15 11:09:23.477 INFO  [23104] [CClientManager::DeInitPair@5695] start
+
+2023-09-15 11:09:23.477 INFO  [23104] [CClientManager::DeInitPair@5709] end
+
+2023-09-15 11:09:23.477 INFO  [23104] [CClientManager::DeInitPair@5695] start
+
+2023-09-15 11:09:23.477 INFO  [23104] [CClientManager::DeInitPair@5709] end
+
+2023-09-15 11:09:23.477 INFO  [23104] [CClientManager::Init@5426] end.nRet[0]
+
+2023-09-15 11:09:23.477 INFO  [23104] [CClientManager::PF_DetectAndStartServer@12450] begin.
+
+2023-09-15 11:09:23.478 INFO  [23104] [CServerManager::DetectService@33992] SDK: DetectService by OpenSCManager start
+
+2023-09-15 11:09:23.478 ERROR [23104] [CServerManager::DetectService@34004] SDK: DetectService OpenSCManager failed. Last error:[5]
+
+2023-09-15 11:09:23.479 INFO  [23104] [CClientManager::ServiceRun@4738] begin.
+
+2023-09-15 11:09:23.479 ERROR [23104] [CClientManager::ServiceRun@4806] SDK: ServiceRun OpenSCManager fail. Last error: [5]
+
+2023-09-15 11:09:23.479 INFO  [23104] [CClientManager::ServiceRun@4907] end.
+
+2023-09-15 11:09:23.479 INFO  [23104] [CClientManager::PF_DeInitPrintLog@6922] SDK: Destroy Zmq context start.
+
+2023-09-15 11:09:23.479 INFO  [23104] [CClientManager::PF_DeInitPrintLog@6927] SDK: Destroy Zmq context end.
+
+2023-09-15 11:09:40.564 INFO  [23220] [CServerManager::PrintLog@36267] ======================================== 4.2.0 build Sep  6 2022 10:43:41 Start Print Log ========================================
+
+2023-09-15 11:09:40.580 INFO  [23220] [CClientManager::InitAuthorization@5906] begin.
+
+2023-09-15 11:09:40.580 INFO  [23220] [CClientManager::CheckLicense@6631] start
+
+2023-09-15 11:09:40.580 INFO  [23220] [CClientManager::CheckLicense@6683] end
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::InitAuthorization@5962] SDK: InitAuthorization, authorization check successful.
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::InitAuthorization@5966] end.
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::Init@5408] begin.
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::DeInitPair@5695] start
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::DeInitPair@5709] end
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::DeInitPair@5695] start
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::DeInitPair@5709] end
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::Init@5426] end.nRet[0]
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::PF_DetectAndStartServer@12450] begin.
+
+2023-09-15 11:09:40.689 INFO  [23220] [CServerManager::DetectService@33992] SDK: DetectService by OpenSCManager start
+
+2023-09-15 11:09:40.689 ERROR [23220] [CServerManager::DetectService@34004] SDK: DetectService OpenSCManager failed. Last error:[5]
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::ServiceRun@4738] begin.
+
+2023-09-15 11:09:40.689 ERROR [23220] [CClientManager::ServiceRun@4806] SDK: ServiceRun OpenSCManager fail. Last error: [5]
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::ServiceRun@4907] end.
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::PF_DeInitPrintLog@6922] SDK: Destroy Zmq context start.
+
+2023-09-15 11:09:40.689 INFO  [23220] [CClientManager::PF_DeInitPrintLog@6927] SDK: Destroy Zmq context end.
+
+2023-09-15 11:09:54.149 INFO  [24064] [CServerManager::PrintLog@36267] ======================================== 4.2.0 build Sep  6 2022 10:43:41 Start Print Log ========================================
+
+2023-09-15 11:09:54.180 INFO  [24064] [CClientManager::InitAuthorization@5906] begin.
+
+2023-09-15 11:09:54.180 INFO  [24064] [CClientManager::CheckLicense@6631] start
+
+2023-09-15 11:09:54.180 INFO  [24064] [CClientManager::CheckLicense@6683] end
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::InitAuthorization@5962] SDK: InitAuthorization, authorization check successful.
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::InitAuthorization@5966] end.
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::Init@5408] begin.
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::DeInitPair@5695] start
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::DeInitPair@5709] end
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::DeInitPair@5695] start
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::DeInitPair@5709] end
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::Init@5426] end.nRet[0]
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::PF_DetectAndStartServer@12450] begin.
+
+2023-09-15 11:09:54.274 INFO  [24064] [CServerManager::DetectService@33992] SDK: DetectService by OpenSCManager start
+
+2023-09-15 11:09:54.274 ERROR [24064] [CServerManager::DetectService@34004] SDK: DetectService OpenSCManager failed. Last error:[5]
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::ServiceRun@4738] begin.
+
+2023-09-15 11:09:54.274 ERROR [24064] [CClientManager::ServiceRun@4806] SDK: ServiceRun OpenSCManager fail. Last error: [5]
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::ServiceRun@4907] end.
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::PF_DeInitPrintLog@6922] SDK: Destroy Zmq context start.
+
+2023-09-15 11:09:54.274 INFO  [24064] [CClientManager::PF_DeInitPrintLog@6927] SDK: Destroy Zmq context end.
+

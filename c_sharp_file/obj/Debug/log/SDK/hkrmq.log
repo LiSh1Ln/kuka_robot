@@ -1,0 +1,452 @@
+2023-08-29 14:28:41.854 INFO  [17436] [CTimerProxy::Regitser@52] Register timer event,Handle[0],pUserData[00000206DB753410]
+
+2023-08-29 14:28:41.855 INFO  [17436] [CCommFactory::SetLogPath@83] set log---call register timer,timer id[0],this[00000206DB753410],pLogPath[H:\WindowsFormsApp1\obj\Debug\log\SDK]
+
+2023-08-29 14:28:41.855 INFO  [17436] [CCommFactory::UpdateLogPath@231] current Path[H]
+
+2023-08-29 14:28:42.048 INFO  [17436] [CTimerProxy::Unregister@61] Unegister timer event,Handle[0]
+
+2023-08-29 14:28:42.048 INFO  [17436] [CTimerProxy::Unregister@66] erase timer event,Handle[0] succ!!!
+
+2023-08-29 14:28:42.048 INFO  [17436] [CTimerProxy::Unregister@74] Unegister timer event,Handle[0]---end
+
+2023-08-29 15:53:51.081 INFO  [12700] [CTimerProxy::Regitser@52] Register timer event,Handle[0],pUserData[0000021C3DD88920]
+
+2023-08-29 15:53:51.082 INFO  [12700] [CCommFactory::SetLogPath@83] set log---call register timer,timer id[0],this[0000021C3DD88920],pLogPath[H:\WindowsFormsApp1\obj\Debug\log\SDK]
+
+2023-08-29 15:53:51.082 INFO  [12700] [CCommFactory::UpdateLogPath@231] current Path[H]
+
+2023-08-29 15:53:51.273 INFO  [12700] [CTimerProxy::Unregister@61] Unegister timer event,Handle[0]
+
+2023-08-29 15:53:51.273 INFO  [12700] [CTimerProxy::Unregister@66] erase timer event,Handle[0] succ!!!
+
+2023-08-29 15:53:51.273 INFO  [12700] [CTimerProxy::Unregister@74] Unegister timer event,Handle[0]---end
+
+2023-08-29 16:11:40.458 INFO  [5660] [CTimerProxy::Regitser@52] Register timer event,Handle[0],pUserData[000001F96B2BCA20]
+
+2023-08-29 16:11:40.458 INFO  [5660] [CCommFactory::SetLogPath@83] set log---call register timer,timer id[0],this[000001F96B2BCA20],pLogPath[H:\WindowsFormsApp1\obj\Debug\log\SDK]
+
+2023-08-29 16:11:40.458 INFO  [5660] [CCommFactory::UpdateLogPath@231] current Path[H]
+
+2023-08-29 16:11:40.557 INFO  [5660] [CTimerProxy::Unregister@61] Unegister timer event,Handle[0]
+
+2023-08-29 16:11:40.557 INFO  [5660] [CTimerProxy::Unregister@66] erase timer event,Handle[0] succ!!!
+
+2023-08-29 16:11:40.557 INFO  [5660] [CTimerProxy::Unregister@74] Unegister timer event,Handle[0]---end
+
+2023-08-29 16:11:45.005 INFO  [26740] [CTimerProxy::Regitser@52] Register timer event,Handle[0],pUserData[00000223728885E0]
+
+2023-08-29 16:11:45.005 INFO  [26740] [CCommFactory::SetLogPath@83] set log---call register timer,timer id[0],this[00000223728885E0],pLogPath[H:\WindowsFormsApp1\obj\Debug\log\SDK]
+
+2023-08-29 16:11:45.005 INFO  [26740] [CCommFactory::UpdateLogPath@231] current Path[H]
+
+2023-08-29 16:11:45.116 INFO  [26740] [CMemPool::CMemPool@23] index i[0]---size[1024]
+
+2023-08-29 16:11:45.116 INFO  [26740] [CMemPool::CMemPool@23] index i[1]---size[2048]
+
+2023-08-29 16:11:45.116 INFO  [26740] [CMemPool::CMemPool@23] index i[2]---size[10240]
+
+2023-08-29 16:11:45.116 INFO  [26740] [CMemPool::CMemPool@23] index i[3]---size[65536]
+
+2023-08-29 16:11:45.116 INFO  [26740] [CMemPool::CMemPool@23] index i[4]---size[524288]
+
+2023-08-29 16:11:45.116 INFO  [26740] [CMemPool::CMemPool@23] index i[5]---size[1048576]
+
+2023-08-29 16:11:45.116 INFO  [26740] [CMemPool::CMemPool@23] index i[6]---size[2097152]
+
+2023-08-29 16:11:45.116 INFO  [26740] [CMemPool::CMemPool@28] Want Data len[1310888],get Datalen[2097152]
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[H:\WindowsFormsApp1\obj\Debug].
+
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommSubject::CMQCommSubject@12] CMQCommSubject loadLog: Get work path is[H:\WindowsFormsApp1\obj\Debug].
+
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[H:\WindowsFormsApp1\obj\Debug].
+
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommSubject::CMQCommSubject@12] CMQCommSubject loadLog: Get work path is[H:\WindowsFormsApp1\obj\Debug].
+
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[H:\WindowsFormsApp1\obj\Debug].
+
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommBaseClient::BindPort@188] bind localip[127.0.0.1],port[49201]
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[H:\WindowsFormsApp1\obj\Debug].
+
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommBaseClient::BindPort@188] bind localip[127.0.0.1],port[49202]
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommRequire::Connect@204] want connect to server[tcp://127.0.0.1:5556],nConnTimeout[10000],client type[Require],m_dwSpliceSendBufSize[10240]
+
+2023-08-29 16:11:45.117 INFO  [26740] [CMQCommBaseClient::Connect@223] mq client type[5]---connect server[127.0.0.1:5556], nLoopTimes[200],nConnTimeout[10000]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:5556] success,socket id[1912]-[0000000000000778],local ipaddr[127.0.0.1:49202],pIocp[000002237595D370]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[5000],socketid[1912]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[1912],m_strServerAddr[tcp://127.0.0.1:5556]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CTimerProxy::Regitser@52] Register timer event,Handle[1],pUserData[0000022375187F60]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[1],client[0000022375187F60]---nClientType[5]
+
+2023-08-29 16:11:45.118 INFO  [26740] [CMQCommRequire::Connect@234] want connect to server[tcp://127.0.0.1:5556] succ,client type[Require]
+
+2023-08-29 16:11:45.158 INFO  [26740] [CMQCommSubject::Connect@28] want to connect to server [tcp://127.0.0.1:65246],client type[Subject], connect timeout is[0]ms
+
+2023-08-29 16:11:45.158 INFO  [26740] [CMQCommBaseClient::Connect@223] mq client type[3]---connect server[127.0.0.1:65246], nLoopTimes[2],nConnTimeout[0]
+
+2023-08-29 16:11:45.180 INFO  [26740] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-08-29 16:11:45.180 INFO  [26740] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:65246] success,socket id[1972]-[00000000000007B4],local ipaddr[127.0.0.1:49203],pIocp[000002237595D450]
+
+2023-08-29 16:11:45.180 INFO  [26740] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[500],socketid[1972]
+
+2023-08-29 16:11:45.180 INFO  [26740] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[1972],m_strServerAddr[tcp://127.0.0.1:65246]
+
+2023-08-29 16:11:45.180 INFO  [26740] [CTimerProxy::Regitser@52] Register timer event,Handle[2],pUserData[0000022372877780]
+
+2023-08-29 16:11:45.180 INFO  [26740] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[2],client[0000022372877780]---nClientType[3]
+
+2023-08-29 16:11:45.180 INFO  [26740] [CMQCommSubject::Connect@47] want to connect to server [tcp://127.0.0.1:65246],client type[Subject],send register cmd ret[0]
+
+2023-08-29 16:11:45.180 INFO  [26740] [CMQCommSubject::Connect@28] want to connect to server [tcp://127.0.0.1:65253],client type[Subject], connect timeout is[0]ms
+
+2023-08-29 16:11:45.180 INFO  [26740] [CMQCommBaseClient::Connect@223] mq client type[3]---connect server[127.0.0.1:65253], nLoopTimes[2],nConnTimeout[0]
+
+2023-08-29 16:11:45.196 INFO  [26740] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-08-29 16:11:45.196 INFO  [26740] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:65253] success,socket id[1976]-[00000000000007B8],local ipaddr[127.0.0.1:49204],pIocp[000002237595D610]
+
+2023-08-29 16:11:45.196 INFO  [26740] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[500],socketid[1976]
+
+2023-08-29 16:11:45.196 INFO  [26740] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[1976],m_strServerAddr[tcp://127.0.0.1:65253]
+
+2023-08-29 16:11:45.196 INFO  [26740] [CTimerProxy::Regitser@52] Register timer event,Handle[3],pUserData[00000223728773C0]
+
+2023-08-29 16:11:45.196 INFO  [26740] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[3],client[00000223728773C0]---nClientType[3]
+
+2023-08-29 16:11:45.196 INFO  [26740] [CMQCommSubject::Connect@47] want to connect to server [tcp://127.0.0.1:65253],client type[Subject],send register cmd ret[0]
+
+2023-08-29 16:11:45.211 INFO  [26740] [CMQCommRequire::Connect@204] want connect to server[tcp://127.0.0.1:65247],nConnTimeout[0],client type[Require],m_dwSpliceSendBufSize[10240]
+
+2023-08-29 16:11:45.211 INFO  [26740] [CMQCommBaseClient::Connect@223] mq client type[5]---connect server[127.0.0.1:65247], nLoopTimes[2],nConnTimeout[0]
+
+2023-08-29 16:11:45.226 INFO  [26740] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-08-29 16:11:45.226 INFO  [26740] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:65247] success,socket id[1984]-[00000000000007C0],local ipaddr[127.0.0.1:49201],pIocp[000002237595D7D0]
+
+2023-08-29 16:11:45.226 INFO  [26740] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[5000],socketid[1984]
+
+2023-08-29 16:11:45.226 INFO  [26740] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[1984],m_strServerAddr[tcp://127.0.0.1:65247]
+
+2023-08-29 16:11:45.226 INFO  [26740] [CTimerProxy::Regitser@52] Register timer event,Handle[4],pUserData[0000022375186280]
+
+2023-08-29 16:11:45.226 INFO  [26740] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[4],client[0000022375186280]---nClientType[5]
+
+2023-08-29 16:11:45.226 INFO  [26740] [CMQCommRequire::Connect@234] want connect to server[tcp://127.0.0.1:65247] succ,client type[Require]
+
+2023-08-29 16:11:45.227 INFO  [26740] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[H:\WindowsFormsApp1\obj\Debug].
+
+
+2023-08-29 16:11:45.227 INFO  [26740] [CMQCommPairClient::Connect@41] want to connect to server [tcp://127.0.0.1:65255],client type[PairC], connect timeout is[5000]ms
+
+2023-08-29 16:11:45.227 INFO  [26740] [CMQCommBaseClient::Connect@223] mq client type[0]---connect server[127.0.0.1:65255], nLoopTimes[100],nConnTimeout[5000]
+
+2023-08-29 16:11:45.242 INFO  [26740] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-08-29 16:11:45.242 INFO  [26740] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:65255] success,socket id[2032]-[00000000000007F0],local ipaddr[127.0.0.1:49205],pIocp[000002237595D6F0]
+
+2023-08-29 16:11:45.242 INFO  [26740] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[5000],socketid[2032]
+
+2023-08-29 16:11:45.242 INFO  [26740] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[2032],m_strServerAddr[tcp://127.0.0.1:65255]
+
+2023-08-29 16:11:45.242 INFO  [26740] [CTimerProxy::Regitser@52] Register timer event,Handle[5],pUserData[0000022376F14C30]
+
+2023-08-29 16:11:45.242 INFO  [26740] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[5],client[0000022376F14C30]---nClientType[0]
+
+2023-08-29 16:11:45.242 INFO  [26740] [CMQCommPairClient::Connect@75] want to connect to server [tcp://127.0.0.1:65255],client type[PairC],send register cmd ret[0]
+
+2023-08-29 16:11:49.426 INFO  [26740] [CMQCommRequire::~CMQCommRequire@19] call ~CMQCommRequire,this[0000022375186280]
+
+2023-08-29 16:11:49.426 INFO  [26740] [CMQCommRequire::Disconnect@243] call disconnect to server,socket id[1984]
+
+2023-08-29 16:11:49.426 INFO  [26740] [CMQCommBaseClient::UnegisterEvent@488] call unregister event. socket excpetion event id[4],Reconnect Event id[5],--client[0000022375186280]
+
+2023-08-29 16:11:49.426 INFO  [26740] [CMQCommBaseClient::UnregisterHeartBeatTimer@516] call unregister heartbeat timer. timerid[4],client[0000022375186280]
+
+2023-08-29 16:11:49.426 INFO  [26740] [CTimerProxy::Unregister@61] Unegister timer event,Handle[4]
+
+2023-08-29 16:11:49.426 INFO  [26740] [CTimerProxy::Unregister@66] erase timer event,Handle[4] succ!!!
+
+2023-08-29 16:11:49.426 INFO  [26740] [CTimerProxy::Unregister@74] Unegister timer event,Handle[4]---end
+
+2023-08-29 16:11:49.451 INFO  [26740] [CIocpTcpTransmitter::Close@195] want close socket,socket id[1984]
+
+2023-08-29 16:11:49.451 INFO  [26740] [DeleteRecvDataBufCB@248] recv buffer worker mode[0]
+
+2023-08-29 16:11:49.513 INFO  [26740] [CMQCommRequire::~CMQCommRequire@21] call ~CMQCommRequire,this[0000022375186280]---end
+
+2023-08-29 16:11:49.513 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@145] call ~CMQCommBaseClient,this[0000022375186280]
+
+2023-08-29 16:11:49.513 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@147] call ~CMQCommBaseClient,this[0000022375186280]xxxx
+
+2023-08-29 16:11:49.513 INFO  [26740] [CMQCommBaseClient::UnegisterEvent@488] call unregister event. socket excpetion event id[-1],Reconnect Event id[-1],--client[0000022375186280]
+
+2023-08-29 16:11:49.513 INFO  [26740] [CMQCommBaseClient::UnregisterHeartBeatTimer@516] call unregister heartbeat timer. timerid[-1],client[0000022375186280]
+
+2023-08-29 16:11:49.529 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@161] call ~CMQCommBaseClient,this[0000022375186280]---end
+
+2023-08-29 16:11:49.529 INFO  [26740] [CMQCommSubject::~CMQCommSubject@19] call ~CMQCommSubject,this[0000022372877780]
+
+2023-08-29 16:11:49.529 INFO  [26740] [CMQCommBaseClient::UnegisterEvent@488] call unregister event. socket excpetion event id[0],Reconnect Event id[1],--client[0000022372877780]
+
+2023-08-29 16:11:49.529 INFO  [26740] [CMQCommBaseClient::UnregisterHeartBeatTimer@516] call unregister heartbeat timer. timerid[2],client[0000022372877780]
+
+2023-08-29 16:11:49.529 INFO  [26740] [CTimerProxy::Unregister@61] Unegister timer event,Handle[2]
+
+2023-08-29 16:11:49.529 INFO  [26740] [CTimerProxy::Unregister@66] erase timer event,Handle[2] succ!!!
+
+2023-08-29 16:11:49.529 INFO  [26740] [CTimerProxy::Unregister@74] Unegister timer event,Handle[2]---end
+
+2023-08-29 16:11:49.545 INFO  [26740] [CIocpTcpTransmitter::Close@195] want close socket,socket id[1972]
+
+2023-08-29 16:11:49.545 INFO  [26740] [DeleteRecvDataBufCB@248] recv buffer worker mode[0]
+
+2023-08-29 16:11:49.545 INFO  [26740] [CMQCommSubject::~CMQCommSubject@22] call ~CMQCommSubject,this[0000022372877780]---end
+
+2023-08-29 16:11:49.545 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@145] call ~CMQCommBaseClient,this[0000022372877780]
+
+2023-08-29 16:11:49.545 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@147] call ~CMQCommBaseClient,this[0000022372877780]xxxx
+
+2023-08-29 16:11:49.545 INFO  [26740] [CMQCommBaseClient::UnegisterEvent@488] call unregister event. socket excpetion event id[-1],Reconnect Event id[-1],--client[0000022372877780]
+
+2023-08-29 16:11:49.545 INFO  [26740] [CMQCommBaseClient::UnregisterHeartBeatTimer@516] call unregister heartbeat timer. timerid[-1],client[0000022372877780]
+
+2023-08-29 16:11:49.561 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@161] call ~CMQCommBaseClient,this[0000022372877780]---end
+
+2023-08-29 16:11:49.561 INFO  [26740] [CMQCommSubject::~CMQCommSubject@19] call ~CMQCommSubject,this[00000223728773C0]
+
+2023-08-29 16:11:49.561 INFO  [26740] [CMQCommBaseClient::UnegisterEvent@488] call unregister event. socket excpetion event id[2],Reconnect Event id[3],--client[00000223728773C0]
+
+2023-08-29 16:11:49.561 INFO  [26740] [CMQCommBaseClient::UnregisterHeartBeatTimer@516] call unregister heartbeat timer. timerid[3],client[00000223728773C0]
+
+2023-08-29 16:11:49.561 INFO  [26740] [CTimerProxy::Unregister@61] Unegister timer event,Handle[3]
+
+2023-08-29 16:11:49.561 INFO  [26740] [CTimerProxy::Unregister@66] erase timer event,Handle[3] succ!!!
+
+2023-08-29 16:11:49.561 INFO  [26740] [CTimerProxy::Unregister@74] Unegister timer event,Handle[3]---end
+
+2023-08-29 16:11:49.575 INFO  [26740] [CIocpTcpTransmitter::Close@195] want close socket,socket id[1976]
+
+2023-08-29 16:11:49.575 INFO  [26740] [DeleteRecvDataBufCB@248] recv buffer worker mode[0]
+
+2023-08-29 16:11:49.575 INFO  [26740] [CMQCommSubject::~CMQCommSubject@22] call ~CMQCommSubject,this[00000223728773C0]---end
+
+2023-08-29 16:11:49.575 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@145] call ~CMQCommBaseClient,this[00000223728773C0]
+
+2023-08-29 16:11:49.575 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@147] call ~CMQCommBaseClient,this[00000223728773C0]xxxx
+
+2023-08-29 16:11:49.575 INFO  [26740] [CMQCommBaseClient::UnegisterEvent@488] call unregister event. socket excpetion event id[-1],Reconnect Event id[-1],--client[00000223728773C0]
+
+2023-08-29 16:11:49.575 INFO  [26740] [CMQCommBaseClient::UnregisterHeartBeatTimer@516] call unregister heartbeat timer. timerid[-1],client[00000223728773C0]
+
+2023-08-29 16:11:49.591 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@161] call ~CMQCommBaseClient,this[00000223728773C0]---end
+
+2023-08-29 16:11:49.591 ERROR [26740] [CIocpTcpTransmitter::SendData@301] CIocpTcpTransmitter SendData fail, HPR_AsyncIO_SendToEx fail, errCode<10093>,m_iConnSocketFd[1912]
+
+2023-08-29 16:11:49.591 ERROR [26740] [CMQCommBaseClient::PackageMsgAndSendData@457] Send data to server failed,socketid[1912]
+
+2023-08-29 16:11:49.591 ERROR [26740] [CMQCommRequire::SendData@46] SendData  Fail!,Error[%d]
+
+2023-08-29 16:11:49.591 WARN  [26740] [CMQCommRequire::SendData@36] !!!socketid[1912] dwCurNeedStatus[2],m_bNeedReconn[1]
+
+2023-08-29 16:11:49.698 ERROR [26740] [CMQCommRequire::RecvDataEx@87] current status is[2],socketid [1912]
+
+2023-08-29 16:11:49.698 INFO  [26740] [CMQCommRequire::~CMQCommRequire@19] call ~CMQCommRequire,this[0000022375187F60]
+
+2023-08-29 16:11:49.698 INFO  [26740] [CMQCommRequire::Disconnect@243] call disconnect to server,socket id[1912]
+
+2023-08-29 16:11:49.698 INFO  [26740] [CMQCommBaseClient::UnegisterEvent@488] call unregister event. socket excpetion event id[6],Reconnect Event id[7],--client[0000022375187F60]
+
+2023-08-29 16:11:49.698 INFO  [26740] [CMQCommBaseClient::UnregisterHeartBeatTimer@516] call unregister heartbeat timer. timerid[1],client[0000022375187F60]
+
+2023-08-29 16:11:49.698 INFO  [26740] [CTimerProxy::Unregister@61] Unegister timer event,Handle[1]
+
+2023-08-29 16:11:49.698 INFO  [26740] [CTimerProxy::Unregister@66] erase timer event,Handle[1] succ!!!
+
+2023-08-29 16:11:49.698 INFO  [26740] [CTimerProxy::Unregister@74] Unegister timer event,Handle[1]---end
+
+2023-08-29 16:11:49.713 INFO  [26740] [CIocpTcpTransmitter::Close@195] want close socket,socket id[1912]
+
+2023-08-29 16:11:49.713 INFO  [26740] [DeleteRecvDataBufCB@248] recv buffer worker mode[0]
+
+2023-08-29 16:11:49.773 INFO  [26740] [CMQCommRequire::~CMQCommRequire@21] call ~CMQCommRequire,this[0000022375187F60]---end
+
+2023-08-29 16:11:49.773 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@145] call ~CMQCommBaseClient,this[0000022375187F60]
+
+2023-08-29 16:11:49.773 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@147] call ~CMQCommBaseClient,this[0000022375187F60]xxxx
+
+2023-08-29 16:11:49.773 INFO  [26740] [CMQCommBaseClient::UnegisterEvent@488] call unregister event. socket excpetion event id[-1],Reconnect Event id[-1],--client[0000022375187F60]
+
+2023-08-29 16:11:49.773 INFO  [26740] [CMQCommBaseClient::UnregisterHeartBeatTimer@516] call unregister heartbeat timer. timerid[-1],client[0000022375187F60]
+
+2023-08-29 16:11:49.789 INFO  [26740] [CMQCommBaseClient::~CMQCommBaseClient@161] call ~CMQCommBaseClient,this[0000022375187F60]---end
+
+2023-08-29 16:11:49.789 INFO  [26740] [CMQCommPairClient::~CMQCommPairClient@30] call ~CMQCommPairClient,this[0000022376F14C30]
+
+2023-08-29 16:11:49.789 INFO  [26740] [CMQCommBaseClient::UnegisterEvent@488] call unregister event. socket excpetion event id[8],Reconnect Event id[9],--client[0000022376F14C30]
+
+2023-08-29 16:11:49.789 INFO  [26740] [CMQCommBaseClient::UnregisterHeartBeatTimer@516] call unregister heartbeat timer. timerid[5],client[0000022376F14C30]
+
+2023-08-29 16:11:49.789 INFO  [26740] [CTimerProxy::Unregister@61] Unegister timer event,Handle[5]
+
+2023-08-29 16:11:49.789 INFO  [26740] [CTimerProxy::Unregister@66] erase timer event,Handle[5] succ!!!
+
+2023-08-29 16:11:49.789 INFO  [26740] [CTimerProxy::Unregister@74] Unegister timer event,Handle[5]---end
+
+2023-08-29 16:11:49.805 INFO  [26740] [CIocpTcpTransmitter::Close@195] want close socket,socket id[2032]
+
+2023-08-29 16:11:49.805 INFO  [26740] [DeleteRecvDataBufCB@248] recv buffer worker mode[0]
+
+2023-11-06 14:38:41.769 INFO  [584] [CTimerProxy::Regitser@52] Register timer event,Handle[0],pUserData[000001F0F0336B50]
+
+2023-11-06 14:38:41.770 INFO  [584] [CCommFactory::SetLogPath@83] set log---call register timer,timer id[0],this[000001F0F0336B50],pLogPath[D:\NewDesktop\10_8winform\obj\Debug\log\SDK]
+
+2023-11-06 14:38:41.770 INFO  [584] [CCommFactory::UpdateLogPath@231] current Path[D]
+
+2023-11-06 14:38:41.885 INFO  [584] [CMemPool::CMemPool@23] index i[0]---size[1024]
+
+2023-11-06 14:38:41.885 INFO  [584] [CMemPool::CMemPool@23] index i[1]---size[2048]
+
+2023-11-06 14:38:41.885 INFO  [584] [CMemPool::CMemPool@23] index i[2]---size[10240]
+
+2023-11-06 14:38:41.885 INFO  [584] [CMemPool::CMemPool@23] index i[3]---size[65536]
+
+2023-11-06 14:38:41.885 INFO  [584] [CMemPool::CMemPool@23] index i[4]---size[524288]
+
+2023-11-06 14:38:41.885 INFO  [584] [CMemPool::CMemPool@23] index i[5]---size[1048576]
+
+2023-11-06 14:38:41.885 INFO  [584] [CMemPool::CMemPool@23] index i[6]---size[2097152]
+
+2023-11-06 14:38:41.885 INFO  [584] [CMemPool::CMemPool@28] Want Data len[1310888],get Datalen[2097152]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[D:\NewDesktop\10_8winform\obj\Debug].
+
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommSubject::CMQCommSubject@12] CMQCommSubject loadLog: Get work path is[D:\NewDesktop\10_8winform\obj\Debug].
+
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[D:\NewDesktop\10_8winform\obj\Debug].
+
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommSubject::CMQCommSubject@12] CMQCommSubject loadLog: Get work path is[D:\NewDesktop\10_8winform\obj\Debug].
+
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[D:\NewDesktop\10_8winform\obj\Debug].
+
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::BindPort@188] bind localip[127.0.0.1],port[49728]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[D:\NewDesktop\10_8winform\obj\Debug].
+
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::BindPort@188] bind localip[127.0.0.1],port[49729]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommRequire::Connect@204] want connect to server[tcp://127.0.0.1:5556],nConnTimeout[10000],client type[Require],m_dwSpliceSendBufSize[10240]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::Connect@223] mq client type[5]---connect server[127.0.0.1:5556], nLoopTimes[200],nConnTimeout[10000]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:5556] success,socket id[1428]-[0000000000000594],local ipaddr[127.0.0.1:49729],pIocp[000001F0F030CCD0]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[5000],socketid[1428]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[1428],m_strServerAddr[tcp://127.0.0.1:5556]
+
+2023-11-06 14:38:41.886 INFO  [584] [CTimerProxy::Regitser@52] Register timer event,Handle[1],pUserData[000001F0F02D6B90]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[1],client[000001F0F02D6B90]---nClientType[5]
+
+2023-11-06 14:38:41.886 INFO  [584] [CMQCommRequire::Connect@234] want connect to server[tcp://127.0.0.1:5556] succ,client type[Require]
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommSubject::Connect@28] want to connect to server [tcp://127.0.0.1:49670],client type[Subject], connect timeout is[0]ms
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommBaseClient::Connect@223] mq client type[3]---connect server[127.0.0.1:49670], nLoopTimes[2],nConnTimeout[0]
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:49670] success,socket id[1464]-[00000000000005B8],local ipaddr[127.0.0.1:49730],pIocp[000001F0F030CA30]
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[500],socketid[1464]
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[1464],m_strServerAddr[tcp://127.0.0.1:49670]
+
+2023-11-06 14:38:41.887 INFO  [584] [CTimerProxy::Regitser@52] Register timer event,Handle[2],pUserData[000001F0F03036B0]
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[2],client[000001F0F03036B0]---nClientType[3]
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommSubject::Connect@47] want to connect to server [tcp://127.0.0.1:49670],client type[Subject],send register cmd ret[0]
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommSubject::Connect@28] want to connect to server [tcp://127.0.0.1:49675],client type[Subject], connect timeout is[0]ms
+
+2023-11-06 14:38:41.887 INFO  [584] [CMQCommBaseClient::Connect@223] mq client type[3]---connect server[127.0.0.1:49675], nLoopTimes[2],nConnTimeout[0]
+
+2023-11-06 14:38:41.888 INFO  [584] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-11-06 14:38:41.888 INFO  [584] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:49675] success,socket id[1468]-[00000000000005BC],local ipaddr[127.0.0.1:49731],pIocp[000001F0F030E1D0]
+
+2023-11-06 14:38:41.888 INFO  [584] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[500],socketid[1468]
+
+2023-11-06 14:38:41.888 INFO  [584] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[1468],m_strServerAddr[tcp://127.0.0.1:49675]
+
+2023-11-06 14:38:41.888 INFO  [584] [CTimerProxy::Regitser@52] Register timer event,Handle[3],pUserData[000001F0F03034D0]
+
+2023-11-06 14:38:41.888 INFO  [584] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[3],client[000001F0F03034D0]---nClientType[3]
+
+2023-11-06 14:38:41.888 INFO  [584] [CMQCommSubject::Connect@47] want to connect to server [tcp://127.0.0.1:49675],client type[Subject],send register cmd ret[0]
+
+2023-11-06 14:38:41.899 INFO  [584] [CMQCommRequire::Connect@204] want connect to server[tcp://127.0.0.1:49671],nConnTimeout[0],client type[Require],m_dwSpliceSendBufSize[10240]
+
+2023-11-06 14:38:41.899 INFO  [584] [CMQCommBaseClient::Connect@223] mq client type[5]---connect server[127.0.0.1:49671], nLoopTimes[2],nConnTimeout[0]
+
+2023-11-06 14:38:41.899 INFO  [584] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-11-06 14:38:41.899 INFO  [584] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:49671] success,socket id[1472]-[00000000000005C0],local ipaddr[127.0.0.1:49728],pIocp[000001F0F030E390]
+
+2023-11-06 14:38:41.899 INFO  [584] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[5000],socketid[1472]
+
+2023-11-06 14:38:41.899 INFO  [584] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[1472],m_strServerAddr[tcp://127.0.0.1:49671]
+
+2023-11-06 14:38:41.899 INFO  [584] [CTimerProxy::Regitser@52] Register timer event,Handle[4],pUserData[000001F0F02D6980]
+
+2023-11-06 14:38:41.899 INFO  [584] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[4],client[000001F0F02D6980]---nClientType[5]
+
+2023-11-06 14:38:41.899 INFO  [584] [CMQCommRequire::Connect@234] want connect to server[tcp://127.0.0.1:49671] succ,client type[Require]
+
+2023-11-06 14:38:41.900 INFO  [584] [CMQCommBaseClient::CMQCommBaseClient@139] CMQCommBaseClient: Get work path is[D:\NewDesktop\10_8winform\obj\Debug].
+
+
+2023-11-06 14:38:41.900 INFO  [584] [CMQCommPairClient::Connect@41] want to connect to server [tcp://127.0.0.1:49677],client type[PairC], connect timeout is[5000]ms
+
+2023-11-06 14:38:41.900 INFO  [584] [CMQCommBaseClient::Connect@223] mq client type[0]---connect server[127.0.0.1:49677], nLoopTimes[100],nConnTimeout[5000]
+
+2023-11-06 14:38:41.900 INFO  [584] [CMQCommBaseClient::ConnectToServer@781] connect to server succ[127.0.0.1]
+
+2023-11-06 14:38:41.900 INFO  [584] [CMQCommBaseClient::Connect@263] connect to server[tcp://127.0.0.1:49677] success,socket id[1536]-[0000000000000600],local ipaddr[127.0.0.1:49732],pIocp[000001F0F030C5D0]
+
+2023-11-06 14:38:41.900 INFO  [584] [CMQCommBaseClient::RegisterToServer@620] Send Register cmd succ,wait rsp timeout[5000],socketid[1536]
+
+2023-11-06 14:38:41.900 INFO  [584] [CMQCommBaseClient::RegisterToServer@625] recv register rsp status[1],socket id[1536],m_strServerAddr[tcp://127.0.0.1:49677]
+
+2023-11-06 14:38:41.900 INFO  [584] [CTimerProxy::Regitser@52] Register timer event,Handle[5],pUserData[000001F0F1F2E860]
+
+2023-11-06 14:38:41.900 INFO  [584] [CMQCommBaseClient::RegitserHeartBeatTimer@511] call register heartbeat timer. timerid[5],client[000001F0F1F2E860]---nClientType[0]
+
+2023-11-06 14:38:41.900 INFO  [584] [CMQCommPairClient::Connect@75] want to connect to server [tcp://127.0.0.1:49677],client type[PairC],send register cmd ret[0]
+
