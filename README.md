@@ -11,3 +11,4 @@
 ##机械手通信使用KUKA软件包Ethernet KRL 3.1，软件包以及软件使用说明详情见文件Ethernet_KRL。
 
 ##其中使用的可视化编程软件VisionMaster，百度网盘链接：https://pan.baidu.com/s/1glZV53EEVuQfRBpmrvTd-g 提取码：f9vk。
+![image](VisionMaster.png)
