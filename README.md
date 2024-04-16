@@ -4,6 +4,7 @@
 视频链接https://github.com/LiSh1Ln/kuka_robot/assets/166976993/ad22f671-b131-4f4f-b02d-ab5afd4c2dba
 ![image](Show.gif)
 ![image](PeopleShow.png)
+
 ##机械手的配置信息
 详见目录kuka_config
 ##机械手通信使用KUKA软件包Ethernet KRL 3.1，软件包以及软件使用说明详情见文件Ethernet_KRL。
